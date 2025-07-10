@@ -9,7 +9,5 @@
 ## ✨ Características principales
 - **Reloj digital** con formatos 12h/24h
 - **Monitor de sistema** (CPU, RAM, disco, red)
-- **Datos meteorológicos** en tiempo real
-- **Efectos visuales** psicodélicos
-- **Modo Pomodoro** integrado
+
 
